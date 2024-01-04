@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "alexana";
+  src: url(/myOwnWork/iWillDesign/Alexana.ttf) format(ttf);
+}
+h1 {
+  color: rgb(20, 22, 30);
+  font-family: "alexana";
+}
+
+section.landing {
+  border: solid rgb(0, 255, 128) 1px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  height: 80%;
+  width: 100%;
+}
+section.landing div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}/*# sourceMappingURL=landing.css.map */

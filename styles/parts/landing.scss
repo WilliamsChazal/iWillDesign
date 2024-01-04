@@ -1,0 +1,18 @@
+@import '../libs/ressources.scss';
+
+section.landing{
+    border: solid rgb(0, 255, 128) 1px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 80%;
+    width: 100%;
+
+        div {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            
+        }
+}

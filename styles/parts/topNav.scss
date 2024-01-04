@@ -1,0 +1,19 @@
+@import '../libs/ressources.scss';
+
+.topNav{
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+
+        .btnContact{
+            
+        }
+   
+    
+
+        .logo{
+            background-image: url(./../assets/logo.png);
+        }
+}

@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "alexana";
+  src: url(/myOwnWork/iWillDesign/Alexana.ttf) format(ttf);
+}
+h1 {
+  color: rgb(20, 22, 30);
+  font-family: "alexana";
+}
+
+.topNav {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+.topNav .logo {
+  background-image: url(./../assets/logo.png);
+}/*# sourceMappingURL=topNav.css.map */

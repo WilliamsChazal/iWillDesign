@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "alexana";
+  src: url(/myOwnWork/iWillDesign/Alexana.ttf) format(ttf);
+}
+h1 {
+  color: rgb(20, 22, 30);
+  font-family: "alexana";
+}/*# sourceMappingURL=ressources.css.map */

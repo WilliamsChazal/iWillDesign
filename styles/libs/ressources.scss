@@ -1,0 +1,13 @@
+$color-1: rgba(20,22,30);
+$color-2: rgba(202,13,45);
+$color-3: rgba(229,233,236);
+
+@font-face {
+    font-family: "alexana";
+    src: url(/myOwnWork/iWillDesign/Alexana.ttf) format(ttf);
+}
+
+h1{
+    color: $color-1;
+    font-family: "alexana";
+}

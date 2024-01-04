@@ -1,0 +1,15 @@
+section.bottomNav{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+        nav{
+            position: inherit;
+            z-index: 0;
+            display: flex;
+            width: 60%;
+            height: auto;
+            align-items: center;
+            justify-content: space-evenly;
+        }
+}
