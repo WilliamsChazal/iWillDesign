@@ -12,7 +12,7 @@
             <span id="digital-clock__time--seconds"></span>
             <span id="digital-clock__date--day"></span>
             
-     </div>
+</div>
 
 
 <div class='btnContact'><p>Contact.</p></div>
